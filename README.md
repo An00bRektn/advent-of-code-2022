@@ -2,4 +2,4 @@
 
 I'm terrible about being consistent with doing this throughout the month but here's to trying!
 
-**Note**: Nothing will be pushed to this repository until December 26th, with the exception of this `setup.sh` that some people might find useful idk.
+**Note**: Nothing will be pushed to this repository until December 26th, with the exception of this `setup.sh` ~~that some people might find useful idk.~~ Whoops need to make some fixes there

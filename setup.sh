@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-
+# I did not realize that inputs were different
+# I'm making this while I'm in class lmao
 day=$1
 if [[ "$day" == "" ]]; then
     echo "[!] Error: No number provided"
@@ -14,6 +15,6 @@ if [[ $((day)) != $day ]]; then
 fi
 
 folder="./day-$1"
-mkdir folder
+mkdir $folder
 wget "https://adventofcode.com/2022/day/$1/input" -O "./$folder/input.txt"
 touch $folder/main.go
